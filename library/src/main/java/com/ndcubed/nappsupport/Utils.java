@@ -9,4 +9,9 @@ public class Utils {
     public static void SayHello() {
         System.out.println("HELLO!");
     }
+
+
+    public static void sayBye() {
+        System.out.println("BYE");
+    }
 }
