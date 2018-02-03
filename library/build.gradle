@@ -35,7 +35,7 @@ publishing {
         nappsupport(MavenPublication) {
             groupId 'com.ndcubed.napputils'
             artifactId 'napputils'
-            version '1.0.0-SNAPSHOT'
+            version '1.0.1-SNAPSHOT'
             artifact("$buildDir/outputs/aar/library-release.aar")
         }
     }
