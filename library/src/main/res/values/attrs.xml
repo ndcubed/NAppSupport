@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleColorButton">
+        <attr name="buttonColor" format="color"/>
+        <attr name="isRoundedStyle" format="boolean"/>
+        <attr name="isHalfRoundedStyle" format="boolean"/>
+        <attr name="isAnimated" format="boolean"/>
+        <attr name="disabledColor" format="color"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+
+</resources>
